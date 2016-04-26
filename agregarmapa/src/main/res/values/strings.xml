@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgregarMapa</string>
+    <string name="sat">Satelite</string>
+    <string name="nor">Normal</string>
+    <string name="hybrid">Hybrido</string>
+
+</resources>
